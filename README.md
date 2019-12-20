@@ -1,5 +1,5 @@
 # A template for c++ project
-This project consists of four part: 
+This project consists of four directories: 
   + src : cpp files 
   + build : object files, dependency files and executable files 
   + include : hpp files
